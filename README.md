@@ -34,7 +34,6 @@
 
 <p align="left">
   <a href="mailto:gp7648065@gmail.com" style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     <span style="font-weight: bold; font-family: sans-serif; color: #333;">gp7648065@gmail.com</span>
   </a>
   <a href="https://www.linkedin.com/in/gustavo-pereira-b85aa6446" target="_blank">
