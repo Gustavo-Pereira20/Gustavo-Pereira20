@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Pereira20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Pereira20&layout=compact&theme=tokyonight&hide=html"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
