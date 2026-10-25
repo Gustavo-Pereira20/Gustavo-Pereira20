@@ -42,7 +42,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:gp7648065@gmail.com">
+  <a href="mailto:gp7648065@://gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-pereira-b85aa6446" target="_blank">
