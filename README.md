@@ -32,11 +32,11 @@
 
 ### 📫 Connect with Me
 
-<p align="left">
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 10px;">
   <a href="mailto:gp7648065@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GP7648065%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-pereira-b85aa6446" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+</div>
